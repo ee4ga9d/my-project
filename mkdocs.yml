@@ -6,7 +6,6 @@ nav:
   - 关于我: about.md
   - 记事: 
     - 如何申请OCBC的实体银行卡（教程）: 2024/03/01.md
-    - 关于eSIM的一些事: 2024/03/03.md
   - 技术:
     - openssl生成https证书给nginx使用: 2024/03/02.md
 theme: readthedocs
