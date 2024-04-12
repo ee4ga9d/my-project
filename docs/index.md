@@ -5,6 +5,7 @@
 ## 记事
 * [01 如何申请OCBC的实体银行卡（教程）](2024/03/01.md) 2024-3-7
 
+* [02 日本自由行（攻略）](2024/04/08.md) 2024-4-8
 * 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
