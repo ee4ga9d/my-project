@@ -8,5 +8,6 @@ nav:
     - 如何申请OCBC的实体银行卡（教程）: 2024/03/01.md 
     - 日本自由行（攻略）: 2024/04/08.md 
   - 技术:
-    - openssl生成https证书给nginx使用: 2024/03/02.md
+    - openssl生成https证书给nginx使用: 2024/03/02.md 
+    - Go语言学习记录: 2024/07/07.md
 theme: readthedocs
