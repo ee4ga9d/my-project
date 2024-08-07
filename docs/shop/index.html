@@ -1,3 +1,76 @@
-<!DOCTYPE html> 
-
-August's SHOP
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Shop</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 15px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .product {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .product img {
+            width: 150px;
+            height: 150px;
+        }
+        .product-details {
+            flex: 1;
+            margin-left: 20px;
+        }
+        .product-title {
+            font-size: 20px;
+            margin: 0;
+        }
+        .product-description {
+            margin: 10px 0;
+        }
+        .product-price {
+            font-size: 18px;
+            color: #b12704;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Simple Shop</h1>
+    </header>
+    <div class="container">
+        <div class="product">
+            <img src="product1.jpg" alt="Product 1">
+            <div class="product-details">
+                <h2 class="product-title">Product 1</h2>
+                <p class="product-description">This is a great product that you will love!</p>
+                <p class="product-price">$19.99</p>
+            </div>
+        </div>
+        <div class="product">
+            <img src="product2.jpg" alt="Product 2">
+            <div class="product-details">
+                <h2 class="product-title">Product 2</h2>
+                <p class="product-description">Another amazing product for you to enjoy.</p>
+                <p class="product-price">$29.99</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
