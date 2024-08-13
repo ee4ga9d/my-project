@@ -1,7 +1,9 @@
 # Welcome to My Blog
 
 我的个人博客小站
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2548619400666906"
+     crossorigin="anonymous"></script>
+     
 ## 记事
 * [01 如何申请OCBC的实体银行卡（教程）](2024/03/01.md) 2024-3-7
 
