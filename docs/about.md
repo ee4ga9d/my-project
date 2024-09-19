@@ -6,4 +6,4 @@
 #####  在转型的过程中，学习英语，学习新的语言。
 
 设立这个小站，想在一个独立的空间，写一写文字。采用了MkDocs来生成html。我的设想是编写的md文件托管到github，将来切换ecs的时候，可以把老站内容同步过去。
-#### 联系我 twitter [@0EE4GA9d](https://twitter.com/0EE4GA9d)
+#### 联系我 twitter [@AxeMap](https://twitter.com/AxeMap)
